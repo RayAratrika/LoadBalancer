@@ -1,5 +1,6 @@
 # LoadBalancer
-Imitating the working of a Load Balancer used for servers and network traffic using the data structure - Queues
+Imitating the working of a Load Balancer used for servers and network traffic using the data structure - Queues.
+
 I HAVE IMPLEMENTED THIS TOPIC IN A SIMPLE YET EFFICIENT WAY.
 I HAVE LIMITED THE NUMBER OF QUEUES WE HAVE TO 5, AND THE NUMBER OF LOADS IN EACH QUEUE TO 10.
 I ALSO HAVE A SPECIAL QUEUE NUMBER 6 WHICH HANDLES LOADS WITH LESS VALUE.
